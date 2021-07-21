@@ -1,0 +1,2 @@
+# SILLYFUNCTIONS
+Silly Minecraft functions
