@@ -36,7 +36,6 @@ ship.mcfunction creates a ship
 0_0.mcfunction tp youself to 0 70 0
 farlands.mcfunction tp you to 3000000000 80 3000000000 where the world it gliched
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Please note that this pack is still being worked on and is still in its early stages of creation.
 This pack will remove all achivements because it is a behavior pack.
 This pack will also need cheats enabled to access the functions
 To add this pack to minecraft bedrock you will need to open your world and put this pack in behavior pack folder.
